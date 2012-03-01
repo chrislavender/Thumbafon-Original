@@ -1,0 +1,10 @@
+0,Welcome. Please note the nearest EXIT in the unlikely event of an emergency./cont;
+1,If you miss any of the following messages don't worry.../cont;
+2,they repeat./end;
+3,If you happen to have an Apple iPhone or iPod Touch\, you can participate in this presentation./cont;
+4,Goto the Apple AppStore on your device and download the application called Thumbafon. (It's free!)/end;
+5,Next\, goto your device Settings (it's the icon image of gears) and choose Thumbafon as the Wi-Fi connection./cont;
+6,Then\, open the Thumbafon App and touch the small \'i\' in the top right corner./cont;
+7,Finally\, on the following page turn on the Network switch./end;
+8,You should now be connected and ready to participate./end;
+9,Blank 1/end;

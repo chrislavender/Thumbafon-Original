@@ -1,4 +1,4 @@
-Thumbafon as a few elements that can be useful in different projects. It has a synthesis layer that uses additive
-synthesis to create anti aliased wave forms.  It has an ObjC Audio Queue class.  It has a C socket and packing
+Thumbafon has a few elements that could be useful in different projects. It has a synthesis layer that uses additive
+synthesis to create anti-aliased waveforms.  It has an Obj-C based Audio Queue class.  It has a C socket and packing
 methodology for streaming osc messages. And it has a "slippery button" class that allows sliding from one UIButton 
 to another.
